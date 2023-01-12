@@ -14,4 +14,7 @@ Usage
 
 To use the calculator, run the `calculator.py` file. You can do this from the command line by navigating to the directory containing the file and entering the command `python3 calculator.py`.
 
+# Future Goals
+-> add calculas functions and make it a proper scientific calculators by adding new buttons and with the help of `math` library.
+-> conversion of `.py` to `.apk`.
 
